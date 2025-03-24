@@ -1,0 +1,7 @@
+global:
+  scrape_interval: 5s
+
+scrape_configs:
+  - job_name: "pythonapp"
+    static_configs:
+      - targets: ["pythonapp:8001"]
