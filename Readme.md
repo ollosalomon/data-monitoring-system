@@ -61,7 +61,7 @@ A comprehensive monitoring system with:
 ### 🔧 Build and Run
 
 ```bash
-git clone https://github.com/yourusername/data-monitoring-system.git
+git clone https://github.com/ollosalomon/data-monitoring-system.git
 cd data-monitoring-system
 docker-compose up -d
 ```
@@ -95,9 +95,9 @@ docker-compose up -d
 
 ## 📜 License & Contact
 
-📄  **License** : [MIT](https://chatgpt.com/c/LICENSE)
+📄  **License** : [MIT](https://choosealicense.com/licenses/mit/)
 📧  **Contact** : ollosalomon@gmail.com
-👨💻  **Author** : [P](https://linkedin.com/in/your-profile)ALE OLLO SALOMON
+👨💻  **Author** : [Pale Ollo Salomon](https://www.linkedin.com/in/ollo-salomon-pale-1a7576152/ "PALE OLLO SALOMON")
 
 ---
 
